@@ -9,7 +9,7 @@ include 'conn.php';
     $lname = $_POST['lname'];
     $gender = $_POST['gender'];
     $birth = $_POST['birth'];
-    $fac_id = $_POST['fac_id'];
+    $fac_id = $_POST['fac_id']; 
     $rank = $_POST['rank'];
     $enroll = $_POST['enroll'];
     $phone = $_POST['phone'];
